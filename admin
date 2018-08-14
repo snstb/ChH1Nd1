@@ -1,0 +1,360 @@
+#EXTM3U
+
+#Jio DTH Hindi Entertainment Channels List
+
+#EXTINF:0, group-title="Entertainment",DD India
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:0, group-title="Entertainment",Zee TV HD
+https://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Life Ok
+
+#EXTINF:0, group-title="Entertainment",Rishtey
+
+#EXTINF:0, group-title="Entertainment",Star Plus HD
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Star Utsav
+#EXTINF:0, group-title="Entertainment",Channel V
+#EXTINF:0, group-title="Entertainment",Zindagi
+#EXTINF:0, group-title="Entertainment",Sab TV
+
+#EXTINF:0, group-title="Entertainment",Zee Anmol
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226199/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Sony Pal
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Colors
+#EXTINF:0, group-title="Entertainment",Bindass
+
+#EXTINF:0, group-title="Entertainment",DD National
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226296/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",Sahara One
+
+#EXTINF:0, group-title="Entertainment",DD Bharati
+http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",EPIC
+
+
+#Jio DTH Hindi Movies Channels List
+
+#EXTINF:0, group-title="Movies",Sony Max 2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+
+#EXTINF:0, group-title="Movies",Sony Max HD
+http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/index.m3u8
+
+#EXTINF:0, group-title="Movies",Zee Cinema HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+
+#EXTINF:0, group-title="Movies",Sony Wah
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/index.m3u8
+
+#EXTINF:0, group-title="Movies",Zee Classic
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+
+#EXTINF:0, group-title="Movies",Zee Action
+http://216.144.250.174/Zee_Acti0n_Hd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Movies",Zee Premier Cinema
+
+#EXTINF:0, group-title="Movies",Star Gold HD
+http://216.144.250.174/Star_Gold_HD/tracks-v2a1/index.m3u8
+
+#EXTINF:0, group-title="Movies",B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+
+#EXTINF:0, group-title="Movies",Movies OK
+
+#EXTINF:0, group-title="Movies",UTV Movies
+
+#EXTINF:0, group-title="Movies",Star Utsav Movies
+
+#EXTINF:0, group-title="Movies",UTV Action
+
+#EXTINF:0, group-title="Movies",Manoranjan TV
+http://cdn.asianetmobiletvplus.online/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/index.m3u8
+
+#EXTINF:0, group-title="Movies",Filmy
+
+#EXTINF:0, group-title="Movies",Enterr 10
+http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/index.m3u8
+
+#EXTINF:0, group-title="Movies",Cinema TV
+http://cdn.asianetmobiletvplus.online/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/index.m3u8
+
+#EXTINF:0, group-title="Movies",Maha Movie
+http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
+
+#EXTINF:0, group-title="Movies",WOW Cinema
+http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/index.m3u8
+
+#EXTINF:0, group-title="Movies",Housefull Movies
+
+
+#EXTINF:0, group-title="Movies",Housefull Action
+
+
+#EXTINF:0, group-title="Movies",RT Movies
+
+#EXTINF:0, group-title="Movies",WB
+http://main-a.for-our.info:8081/tv11/wbtv/chunks.m3u8
+
+
+#Jio DTH Hindi Music Channels List
+#EXTINF:0, group-title="Music",E24
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/index.m3u8
+
+#EXTINF:0, group-title="Music",Zing
+
+#EXTINF:0, group-title="Music",Music India
+http://103.14.127.37:1935/musicindia/musicindia.stream/index.m3u8
+
+#EXTINF:0, group-title="Music",Zee ETC Bollywood
+http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/index.m3u8
+
+#EXTINF:0, group-title="Music",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8
+
+#EXTINF:0, group-title="Music",Manoranjan Music
+
+#EXTINF:0, group-title="Music",B4U Music
+http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/index.m3u8
+
+#EXTINF:0, group-title="Music",Bindass Play
+
+#EXTINF:0, group-title="Music",Zoom
+http://cdn.asianetmobiletvplus.online/channels/zoomtv_oviuvytxzuhmryglabaikqknkgpxlyij/index.m3u8
+
+#EXTINF:0, group-title="Music",9X Jalwa
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:0, group-title="Music",M Tunes
+
+#EXTINF:0, group-title="Music",Channel X
+
+#EXTINF:0, group-title="Music",Mastiii
+http://cshms3.airtel.tv/wh7f454c46tw4016503803_1353658214/PLTV/88888888/224/3221226021/index.m3u8
+
+#EXTINF:0, group-title="Music",9XM
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/index.m3u8
+
+#EXTINF:0, group-title="Music",Sony ROX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
+
+#Jio DTH Hindi Kids’ Channels List
+#EXTINF:0, group-title="Kids",Cartoon Network
+http://main-a.for-our.info:8081/tv11/cartoonnetwork/chunks.m3u8
+
+#EXTINF:0, group-title="Kids",Baby TV
+
+#EXTINF:0, group-title="Kids",Pogo TV
+https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Kids",Discovery Kids
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+
+#EXTINF:0, group-title="Kids",Disney XD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:0, group-title="Kids",Nick
+
+
+#EXTINF:0, group-title="Kids",Disney Channel
+http://main-a.for-our.info:8081/tv11//disney/playlist.m3u8
+
+#EXTINF:0, group-title="Kids",Toonami
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+
+#EXTINF:0, group-title="Kids",Disney Junior
+#EXTINF:0, group-title="Kids",Animax
+#EXTINF:0, group-title="Kids",Hungama TV
+#EXTINF:0, group-title="Kids",Nick Jr.
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:0, group-title="Kids",Sonic
+#EXTINF:0, group-title="Kids",Zee Q
+
+
+#Jio DTH Hindi Life Style Channels List
+#EXTINF:0, group-title="Lifestyle",NDTV Good Times
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Discovery Channel
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:0, group-title="Lifestyle",Discovery World HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Nat Geo Wild
+
+#EXTINF:0, group-title="Lifestyle",National Geographic
+
+#EXTINF:0, group-title="Lifestyle",Nat Geo People
+
+#EXTINF:0, group-title="Lifestyle",Fox Life
+
+#EXTINF:0, group-title="Lifestyle",Discovery Science
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Investigation Discovery
+#EXTINF:0, group-title="Lifestyle",Discovery Turbo
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Animal Planet
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:0, group-title="Lifestyle",Animal Planet HD World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Fashion TV
+
+#EXTINF:0, group-title="Lifestyle",History TV18
+
+#EXTINF:0, group-title="Lifestyle",TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:0, group-title="Lifestyle",TLC HD World
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Travel XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Green TV
+
+#EXTINF:0, group-title="Lifestyle",Sony BBC Earth HD
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:0, group-title="Lifestyle",Hariyali TV
+
+#EXTINF:0, group-title="Lifestyle",DD Kisan
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226294/index.m3u8
+
+
+#Jio DTH Hindi News & Business Channels List
+#EXTINF:0, group-title="News & Business",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+
+#EXTINF:0, group-title="News & Business",NDTV IndiaDD News
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/index.m3u8
+
+#EXTINF:0, group-title="News & Business",A1 TV
+
+#EXTINF:0, group-title="News & Business",NDTV IndiaABP News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/index.m3u8
+
+#EXTINF:0, group-title="News & Business",Jan TV
+
+#EXTINF:0, group-title="News & Business",BBC Television
+
+#EXTINF:0, group-title="News & Business",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:0, group-title="News & Business",India News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226085/index.m3u8
+
+#EXTINF:0, group-title="News & Business",Live India
+#EXTINF:0, group-title="News & Business",Zee News
+
+#EXTINF:0, group-title="News & Business",News 24
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/index.m3u8
+
+#EXTINF:0, group-title="News & Business",News Nation
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:0, group-title="News & Business",CNBC Awaaz
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="News & Business",Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/1st_1@26969/master.m3u8
+
+#EXTINF:0, group-title="News & Business",Zee Business
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/index.m3u8
+
+#EXTINF:0, group-title="News & Business",Rajya Sabha TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226343/index.m3u8
+
+#EXTINF:0, group-title="News & Business",Aaj Tak
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
+
+#EXTINF:0, group-title="News & Business",IBN-7
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_5.m3u8
+
+#EXTINF:0, group-title="News & Business",Sudarshan News
+
+#EXTINF:0, group-title="News & Business",News World India
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/index.m3u8
+
+#EXTINF:0, group-title="News & Business",NDTV 24×7
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+
+#EXTINF:0, group-title="News & Business",Focus News
+
+#EXTINF:0, group-title="News & Business",APN News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:0, group-title="News & Business",News Nation
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:0, group-title="News & Business",A2Z News
+#EXTINF:0, group-title="News & Business",TV 24
+
+
+#Jio DTH Hindi Religious Channels List
+#EXTINF:0, group-title="Religious",Aastha Bhajan
+#EXTINF:0, group-title="Religious",Aastha
+#EXTINF:0, group-title="Religious",Kanshi TV
+#EXTINF:0, group-title="Religious",Peace of Mind TV
+#EXTINF:0, group-title="Religious",Arihant
+#EXTINF:0, group-title="Religious",Darshan 24
+#EXTINF:0, group-title="Religious",Divya
+#EXTINF:0, group-title="Religious",Sanskar
+
+
+
+#Jio DTH Hindi Sports Channels List
+#EXTINF:0, group-title="Sports",STAR Sports 1 HD
+#EXTINF:0, group-title="Sports",STAR Sports 2 HD
+#EXTINF:0, group-title="Sports",STAT Sports 3 HD
+#EXTINF:0, group-title="Sports",STAR Sports 4 HD
+#EXTINF:0, group-title="Sports",STAR Sports Select HD 1
+#EXTINF:0, group-title="Sports",STAR Sports Select HD 2
+http://216.144.250.174/Star_Sport_HD_o2/index.m3u8
+#EXTINF:0, group-title="Sports",STAR Sports 1
+#EXTINF:0, group-title="Sports",STAR Sports 2
+#EXTINF:0, group-title="Sports",STAR Sports 3
+#EXTINF:0, group-title="Sports",STAR Sports 4
+
+#EXTINF:0, group-title="Sports",Sony SIX
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/index.m3u8
+
+#EXTINF:0, group-title="Sports",Sony ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:0, group-title="Sports",TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0, group-title="Sports",TEN 2 HD
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0, group-title="Sports",TEN 3 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:0, group-title="Sports",DD Sports
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
+
+#EXTINF:0, group-title="Sports",NEO Prime
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:0, group-title="Sports",NEO Sports
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+
+#EXTINF:-1,ADSport 1HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,ADSport 2HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
